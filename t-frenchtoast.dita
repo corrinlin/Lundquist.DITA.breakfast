@@ -22,8 +22,23 @@
             <p></p>
         </context>
         <steps>
+            <step audience="mom">
+                <cmd>In a small bowl, whisk together the milk, maple syrup, flour, egg, cinnamon, nutmeg, and salt.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>In a small bowl, whisk together the almond milk, maple syrup, flour, egg, nutritional yeast, cinnamon, nutmeg, and salt.</cmd>
+            </step>
             <step>
-                <cmd></cmd>
+                <cmd>Place the bread in one of the teal soup bowls. Pour the mixture over the bread, then flip the bread over to make sure both sides are evenly coated.</cmd>
+            </step>
+            <step>
+                <cmd>Heat a bit of coconut in a large skillet over medium heat, enough to coat the pan. When the pan is hot, lay the bread slices and cook until golden brown, flipping once.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Serve with powdered sugar, a pat of butter, maple syrup, and fresh fruit.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Serve with powedered sugar, a pat of margarine maple syrup, and fresh fruit.</cmd>
             </step>
         </steps>
     </taskbody>
