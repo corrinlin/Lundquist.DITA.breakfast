@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rrm_zcj_kz">
+    <title>French Toast</title>
+    <shortdesc/>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li>3 slices of day-old French bread, ciabatta bread, or other sturdy bread</li>
+                <li audience="mom">1/2 cup milk</li>
+                <li audience="armando">1/2 cup almond milk</li>
+                <li>1/2 tablespoon maple syrup</li>
+                <li>1 tablespoon whole wheat flour</li>
+                <li audience="mom">1 egg</li>
+                <li audience="armando">1/2 tablespoon nutritional yeast</li>
+                <li>1/2 teaspoon cinnamon</li>
+                <li>dash freshly ground nutmeg</li>
+                <li>pinch of salt</li>
+            </ul>
+        </prereq>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
