@@ -7,14 +7,50 @@
         <prereq>
             <ul>
                 <li>6 whole wheat tortillas</li>
+                <li>3 medium sweet potatoes</li>
+                <li audience="mom">1 package breakfast sausage patties</li>
+                <li>1-15oz can black beans, rinsed and drained</li>
+                <li>1/4 teaspoon cumin</li>
+                <li>1/4 teaspoon chili powder</li>
+                <li audience="mom">8 large egg whites</li>
+                <li audience="armando">1-14oz package extra firm tofu, drained</li>
+                <li>1 avocado, diced</li>
+                <li audience="mom">1/2 cup shredded cheddar cheese</li>
+                <li audience="armando">1/2 cup vegan shreds cheese</li>
             </ul>
         </prereq>
         <context>
-            <p></p>
+            <p>Directions</p>
         </context>
         <steps>
+            <step audience="armando">
+                <cmd>Press/drain the tofu overnight to remove water</cmd>
+            </step>
             <step>
-                <cmd></cmd>
+                <cmd>Pierce sweet potates with fork a few times. Place in microwave on high for 4-6
+                    minutes. Remove the skin and put the potatoes in a medium bowl. Mash with a
+                    fork, set aside.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Cook the breakfast sausage according to package directions.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Crumble the tofu into a consistency that resembles scrambled eggs.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>In a separate large bowl, add breakfast sausage, black beans, cumin, and chili powder. Stir to combine then set aside.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>In a separate bowl, beat egg whites together. Spray a skillet with cooking spray and place over medium-low heat. Cook egg whites, folding every few minutes until cooked.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Add breakfast sausage, black beans, cumin, and chili powder into skillet. Cook for 5 minutes. Remove from heat.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>In a large skillet over medium heat, add black beans, cumin, chili powder, and tofu. Cook for 7 minutes. Remove from heat.</cmd>
+            </step>
+            <step>
+                <cmd>To assemble the breakfast burrito, smear some sweet potato over the area of a tortilla. Add the innerds, then roll up.</cmd>
             </step>
         </steps>
     </taskbody>
