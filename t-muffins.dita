@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_o2c_2y3_kz">
+    <title>Superhero Muffins</title>
+    <shortdesc/>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li>2 cups almond meal</li>
+                <li>1 cup old-fashioned rolled oats</li>
+                <li>2 teaspoons ground cinnamon</li>
+                <li>1/2 teaspoon ground nutmeg</li>
+                <li>1 teaspoon baking soda</li>
+                <li>1/2 teaspooon fine sea salt</li>
+                <li>1/2 cup chopped walnuts</li>
+                <li>1/2 cup raisins</li>
+                <li audience="mom">3 eggs, beaten</li>
+                <li audience="armando">3 tablespoons ground flax seed and 9 tablespoons water</li>
+                <li>1 cup grated zucchini</li>
+                <li>1 cup grated carrots</li>
+                <li audience="mom">6 tablespoons unsalted butter, melted</li>
+                <li audience="armando">6 tablespoons unsalted margarine, melted</li>
+                <li>1/2 cup dark amber maple syrup</li>
+                <li>1 teaspoon vanilla extract</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Directions</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Preheat the oven to 350 F. Line a 12-cup standard muffin tin with paper muffin cups.</cmd>
+            </step>
+            <step>
+                <cmd>In a large bowl, combine the almond meal, oats, cinnamon, nutmeg, baking soda, salt, walnuts, and raisins.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>In a separate bowl, mix together the eggs, zucchini, carrots, butter, maple syrup, and vanilla. Add the dry ingredients, mixing until just combined. The batter will be thick.</cmd>
+            </step>
+            <step audience="Armando">
+                <cmd>In a separate bowl, mix together the flax seed and water, zucchini, carrots, margarine, maple syrup, and vanilla. Add the dry ingredients, mixing until just combined. The batter will be thick.</cmd>
+            </step>
+            <step>
+                <cmd>Spoon the batter into the muffin cups, filling each to the brim. Bake until the muffins are nicely browned on the top, about 25-35 minutes.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

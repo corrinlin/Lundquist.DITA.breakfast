@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rrm_zcj_kz">
+    <title>French Toast</title>
+    <shortdesc/>
+    <taskbody>
+        <prereq>
+            <ul>
+                <li>3 slices of day-old French bread, ciabatta bread, or other sturdy bread</li>
+                <li audience="mom">1/2 cup milk</li>
+                <li audience="armando">1/2 cup almond milk</li>
+                <li>1/2 tablespoon maple syrup</li>
+                <li>1 tablespoon whole wheat flour</li>
+                <li audience="mom">1 egg</li>
+                <li audience="armando">1/2 tablespoon nutritional yeast</li>
+                <li>1/2 teaspoon cinnamon</li>
+                <li>dash freshly ground nutmeg</li>
+                <li>pinch of salt</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Ingredients</p>
+        </context>
+        <steps>
+            <step audience="mom">
+                <cmd>In a small bowl, whisk together the milk, maple syrup, flour, egg, cinnamon, nutmeg, and salt.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>In a small bowl, whisk together the almond milk, maple syrup, flour, egg, nutritional yeast, cinnamon, nutmeg, and salt.</cmd>
+            </step>
+            <step>
+                <cmd>Place the bread in one of the teal soup bowls. Pour the mixture over the bread, then flip the bread over to make sure both sides are evenly coated.</cmd>
+            </step>
+            <step>
+                <cmd>Heat a bit of coconut in a large skillet over medium heat, enough to coat the pan. When the pan is hot, lay the bread slices and cook until golden brown, flipping once.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Serve with powdered sugar, a pat of butter, maple syrup, and fresh fruit.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Serve with powedered sugar, a pat of margarine maple syrup, and fresh fruit.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
