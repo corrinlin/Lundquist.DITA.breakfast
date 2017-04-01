@@ -1,4 +1,5 @@
 # Coffee
+![picture of mug with coffee](images\french-toast.jpg)
 Prep time: 5 minutes. Cook time: 5 minutes. Makes: 1 cup of coffee.
 ##Ingredients
 * 1 scoop vanilla coffee grounds
