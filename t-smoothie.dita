@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_f5b_pqy_kz">
+    <title>Green Tea-Green Apple Smoothie</title>
+    <shortdesc>Prep time: 10 minutes. Cook time: 10 minutes. Serves: 2.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Ingredients</p>
+            <ul>
+                <li>1 cup unsweetened green tea, cold or at room temperature</li>
+                <li>1 cup unsweetened almond milk</li>
+                <li>1 green apple, quartered and core removed</li>
+                <li>1 large kale leaf, stem removed</li>
+                <li>4 dates</li>
+                <li>2 tablespoons creamy peanut butter</li>
+                <li>1/4 teaspoon ground cinnamon</li>
+                <li>1 cup ice</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Directions</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In the blender, place the green tea, milk, apple, kale, dates, peanut butter, cinnamon, and ice.</cmd>
+            </step>
+            <step>
+                <cmd>Blend on high speed for several minutes until smooth.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

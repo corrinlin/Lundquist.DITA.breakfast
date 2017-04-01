@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_rrm_zcj_kz">
     <title>French Toast</title>
-    <shortdesc/>
+    <shortdesc>Prep time: 10 minutes. Cook time: 5 minutes. Serves: 2-3</shortdesc>
     <taskbody>
         <prereq>
             <ul>
@@ -41,5 +41,6 @@
                 <cmd>Serve with powedered sugar, a pat of margarine maple syrup, and fresh fruit.</cmd>
             </step>
         </steps>
+        <result><image href="images/french-toast.jpg"></image></result>
     </taskbody>
 </task>
