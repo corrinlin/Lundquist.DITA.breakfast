@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_jjz_dbg_lz">
+    <title>Swiss Muesli Bowl</title>
+    <shortdesc><image href="images/muesli.jpg"></image>Prep Time: 5 minutes. Cook time: 1 hour or overnight. Serves: 2.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Ingredients</p>
+            <ul>
+                <li>1 cup old-fashioned rolled oats</li>
+                <li>3/4 cup unsweetened almond milk</li>
+                <li audience="mom">3/4 cup plain whole milk yogurt</li>
+                <li audience="armando">3/4 cup plain coconut milk yogurt</li>
+                <li audience="mom">2 teaspoons honey</li>
+                <li audience="armando">2 teaspoons maple syrup</li>
+                <li>Dash of vanilla extract</li>
+                <li>1 Granny Smith apple, unpeeled, grated</li>
+                <li>Optional toppings: fresh berries, sunflower seeds, chopped walnuts, toasted coconut flakes.</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Directions</p>
+        </context>
+        <steps>
+            <step audience="mom">
+                <cmd>In a medium bowl, combine the oats, milk, yogurt, honey, cinnamon, vanilla, and salt. Cover and allow to soak for at least 1 hour, or refrigerate overnight. </cmd>
+            </step>
+            <step audience="armando">
+                <cmd>In a medium bowl, combine the oats, milk, yogurt, maple syrup, cinnamon, vanilla, and salt. Cover and allow to soak for at least 1 hour, or refrigerate overnight.</cmd>
+            </step>
+            <step>
+                <cmd>Stir in the apple and add more milk, if too thick.</cmd>
+            </step>
+            <step>
+                <cmd>Divide between two bowls, then stir in any assortment of toppings.</cmd>
+            </step>
+                
+        </steps>
+    </taskbody>
+</task>

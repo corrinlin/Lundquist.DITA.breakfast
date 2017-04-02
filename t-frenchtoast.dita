@@ -5,6 +5,7 @@
     <shortdesc><image href="images/french-toast.jpg"></image>Prep time: 10 minutes. Cook time: 5 minutes. Serves: 2-3</shortdesc>
     <taskbody>
         <prereq>
+            <p>Ingredients</p>
             <ul>
                 <li>3 slices of day-old French bread, ciabatta bread, or other sturdy bread</li>
                 <li audience="mom">1/2 cup milk</li>

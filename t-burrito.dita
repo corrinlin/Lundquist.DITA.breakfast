@@ -5,6 +5,7 @@
     <shortdesc><image href="images/burrito.jpg"></image>Prep time: 20 minutes. Cook time: 5 minutes. Makes: 6 burritos.</shortdesc>
     <taskbody>
         <prereq>
+            <p>Ingredients</p>
             <ul>
                 <li>6 whole wheat tortillas</li>
                 <li>3 medium sweet potatoes</li>
