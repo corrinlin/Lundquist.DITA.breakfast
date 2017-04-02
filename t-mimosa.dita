@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="topic_imy_dsg_lz">
+  <title>Classic Mimosa</title>
+  <shortdesc><image href="images/mimosa.jpg"></image>Serves: 1</shortdesc>
+  <body>
+    <section>
+    <title>Ingredients</title>
+    <ul>
+      <li><p>1 1/2 oz. Fresh Squeezed Orange Juice</p></li>
+      <li><p>1 1/2 oz. Tangerine Juice</p></li>
+      <li><p>1/2 oz. St. Germain</p></li>
+      <li><p>4 oz Veuve Clicquot champagne</p></li>
+    </ul>
+    </section>
+    <section>
+      <title>Directions</title>
+      <p>In a champagne flute, first add juices, then St. Germain and champagne.</p>
+    </section>
+  </body>
+</topic>
