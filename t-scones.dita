@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_uzm_cng_lz">
+    <title>Blueberry-Lemon Cornmeal Scones</title>
+    <shortdesc><image href="images/scones.jpg"></image>Prep time: 20 minutes. Cook time: 20 minutes. Makes: 10 scones.</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Ingredients</p>
+            <ul>
+                <li>1 cup stone-ground cornmeal</li>
+                <li>1 cup all-purpose flour</li>
+                <li audience="mom">1/2 cup granulated sugar</li>
+                <li audience="armando">1/2 cup coconut sugar</li>
+                <li>2 teaspoons baking powder</li>
+                <li>1/2 teaspoon fine sea salt</li>
+                <li audience="mom">1 stick cold unsalted butter, cut into cubes</li>
+                <li audience="armando">1 stick cold unsalted margarine, cut into cubes</li>
+                <li audience="mom">2 eggs</li>
+                <li audience="armando">Ener-G egg replacer: 2 packed tablespoons of powder and 4 tablespoons warm water, whisked together until frothy.</li>
+                <li audience="mom">1/3 cup whole milk Greek yogurt</li>
+                <li audience="armando">1/3 cup almond milk Greek style yogurt</li>
+                <li>1 teaspoon vanilla extract</li>
+                <li>Finely grated zest of 2 lemons</li>
+                <li>1 cup frozen blueberries</li>
+            </ul>
+        </prereq>
+        <context>
+            <p>Directions</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Preheat the oven to 350 F. Line a baking sheet with parchment paper.</cmd>
+            </step>
+            <step>
+                <cmd>In a large mixing bowl, whish together the cornmeal, flour, sugar, baking powder, and salt.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Using your fingers, work the butter into the flour mixture until it's the size of peas.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Using your fingers, work the margarine into the flour mixture until it's the size of peas.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>In a separate bowl, whisk together the eggs, yogurt, vanilla, and lemon zest. Add to the dry ingredients and stir until just combined. Fold in the blueberries. The dough will be thick and sticky.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>In a separate bowl, whisk together the Ener-G egg replacer mixture, yogurt, vanilla, and lemon zest. Add to the dry ingredients and stir until just combined. Fold in the blueberries. The dough will be thick and sticky.</cmd>
+            </step>
+            <step>
+                <cmd>Flour a clean work surface and roll the dough into a semi-flattened log, about 2 inches thick in diameter. Cut the log into 10 triangles and place 2 inches apart on the baking sheet. Bake until lightly browned on the bottoms, 15 to 20 minutes. Transfer to a rack to cool.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
