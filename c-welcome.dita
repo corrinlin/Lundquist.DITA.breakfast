@@ -5,5 +5,7 @@
   <body>
     <p>Welcome to our kitchen!</p>
     <p>You'll find everything you need to cook the recipes in this book in our kitchen.</p>
+    <p>In the references section of this webhelp, you'll find a table of where to find different ingredients, as well as a conversion table for kitchen units.</p>
+    <p><image href="images/kitchen.jpg"><alt>Picture of a kitchen</alt></image></p>
   </body>
 </topic>

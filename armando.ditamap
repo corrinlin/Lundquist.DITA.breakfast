@@ -4,6 +4,9 @@
  <title>Cookbook for Armando</title>
  <topicref href="c-welcome.dita"></topicref>
  <topichead navtitle="Breakfast Food">
+  <topicmeta>
+   <shortdesc>Recipes for breakfast foods including oatmeal, french toast, and muffins.</shortdesc>
+  </topicmeta>
   <topicref href="t-burrito.dita" navtitle="Breakfast Burrito"></topicref>
   <topicref href="t-frenchtoast.dita" navtitle="French Toast"></topicref>
   <topicref href="t-muesli.dita" navtitle="Overnight Muesli"></topicref>
@@ -26,4 +29,5 @@
   </topicref>
  </topichead>
  <topicref href="r-layout.dita"></topicref>
+ <topicref href="c-contact.dita"></topicref>
 </map>

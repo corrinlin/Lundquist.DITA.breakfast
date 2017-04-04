@@ -5,7 +5,7 @@
     <shortdesc><image href="images/muesli.jpg"/></shortdesc>
     <taskbody>
         <prereq>
-            <p conref="c-nutdisclaimer.dita#nutdisclaimer/allergydisclaimer"></p>
+            <p conref="c-disclaimer.dita#disclaimer/allergydisclaimer"></p>
             <p>Prep Time: 5 minutes. Cook time: 1 hour or overnight. Serves: 2.</p>
             <p>Ingredients</p>
             <ul>

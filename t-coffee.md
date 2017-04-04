@@ -1,5 +1,5 @@
 # Coffee
-![picture of mug with coffee](images\coffee.jpg)
+![picture of mug with coffee](images/coffee.jpg)
 
 Prep time: 5 minutes. Cook time: 5 minutes. Makes: 1 cup of coffee.
 ##Ingredients

@@ -2,9 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_uzm_cng_lz">
     <title>Blueberry-Lemon Cornmeal Scones</title>
-    <shortdesc><image href="images/scones.jpg"></image>Prep time: 20 minutes. Cook time: 20 minutes. Makes: 10 scones.</shortdesc>
+    <shortdesc><image href="images/scones.jpg"></image></shortdesc>
     <taskbody>
         <prereq>
+            <p>Prep time: 20 minutes. Cook time: 20 minutes. Makes: 10 scones.</p>
             <p>Ingredients</p>
             <ul>
                 <li>1 cup stone-ground cornmeal</li>

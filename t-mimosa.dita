@@ -2,8 +2,16 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
 <topic id="topic_imy_dsg_lz">
   <title>Classic Mimosa</title>
-  <shortdesc><image href="images/mimosa.jpg"></image>Serves: 1</shortdesc>
+  <shortdesc><image href="images/mimosa.jpg"></image></shortdesc>
   <body>
+    <section>
+      <title>Disclaimer</title>
+      <p conref="c-disclaimer.dita#disclaimer/alcoholdisclaimer"></p>
+    </section>
+    <section>
+      <title>Servings</title>
+      <p>Serves 1</p>
+    </section>
     <section>
     <title>Ingredients</title>
     <ul>

@@ -2,9 +2,11 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ifk_yfm_kz">
     <title>Banana Nut Oatmeal</title>
-    <shortdesc><image href="images/oatmeal.jpg"></image>Prep time: 1 minute. Cook time: 3 minutes. Serves: 1.</shortdesc>
+    <shortdesc><image href="images/oatmeal.jpg"></image></shortdesc>
     <taskbody>
         <prereq>
+            <p conref="c-disclaimer.dita#disclaimer/allergydisclaimer"></p>
+            <p>Prep time: 1 minute. Cook time: 3 minutes. Serves: 1.</p>
             <p>Ingredients</p>
             <ul>
                 <li>1/2 cup rolled oats</li>

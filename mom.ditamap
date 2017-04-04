@@ -4,6 +4,9 @@
  <title>Cookbook for Armando's Mom</title>
  <topicref href="c-welcome.dita"></topicref>
  <topichead navtitle="Breakfast Food">
+  <topicmeta>
+   <shortdesc>Recipes for breakfast foods including oatmeal, french toast, and muffins.</shortdesc>
+  </topicmeta>
   <topicref href="t-burrito.dita" navtitle="Breakfast Burrito"></topicref>
   <topicref href="t-frenchtoast.dita" navtitle="French Toast"></topicref>
   <topicref href="t-muesli.dita" navtitle="Overnight Muesli"></topicref>
@@ -12,6 +15,9 @@
   <topicref href="t-oatmeal.dita" navtitle="Simple Oatmeal"></topicref>
  </topichead>
  <topichead navtitle="Breakfast Drinks">
+  <topicmeta>
+   <shortdesc>Recipes for breakfast drinks including smoothies, tea, and coffee.</shortdesc>
+  </topicmeta>
   <topicref href="t-coffee.md" format="markdown">
    <topicmeta>
     <shortdesc>This recipe makes a delicious cup of coffee</shortdesc>
@@ -26,4 +32,5 @@
   </topicref>
  </topichead>
 <topicref href="r-layout.dita"></topicref>
+<topicref href="c-contact.dita"></topicref>
 </map>
