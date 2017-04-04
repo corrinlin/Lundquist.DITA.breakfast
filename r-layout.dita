@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_m3r_1sf_lz">
+  <title>Contact me</title>
+  <shortdesc>If you have any problems at all, don't hesitate to call me.</shortdesc>
+  <refbody>
+    <table>
+      <title>Table of Ingredients</title>
+      <desc/>
+      <tgroup cols="2">
+        <tbody>
+          <row>
+            <entry>Dry Ingredients</entry>
+            <entry>Dry ingredients such as rolled oats, flour, sugar, and baking soda can all be
+              found in the top cupboard across from the sink, nearest to the basement door.</entry>
+          </row>
+          <row>
+            <entry>Fresh Ingredients</entry>
+            <entry>Fresh ingredients such as meats, vegetables, as well as refrigerated items such
+              as milk, butter, and tofu, can all be found in the refrigerator. If an ingredient has
+              either a "C", "A", or no marking on it, it's free to use. If there is a "J" or a "T"
+              marking on it, you can't use it.</entry>
+          </row>
+          <row>
+            <entry>Seasonings</entry>
+            <entry>All seasonings such as cumin and cinnamon can be found on the shelf above the
+              oven.</entry>
+          </row>
+          <row>
+            <entry>Appliances</entry>
+            <entry><ul>
+                <li>The coffee machine is next to the microwave.</li>
+                <li>The toaster is on the counter that lines the far wall behind the stove.</li>
+                <li>All pots and pants are in the cabinets below and to the left of the sink.</li>
+                <li>More frequently used cooking utensils are in the vase next to the stove, but
+                  there are more in the drawer to the left of the stove.</li>
+              </ul></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </refbody>
+</reference>

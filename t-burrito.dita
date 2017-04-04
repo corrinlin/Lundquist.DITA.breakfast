@@ -2,9 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_xw3_p3j_kz">
     <title>Breakfast Burritos</title>
-    <shortdesc><image href="images/burrito.jpg"></image>Prep time: 20 minutes. Cook time: 5 minutes. Makes: 6 burritos.</shortdesc>
+    <shortdesc><image href="images/burrito.jpg"></image></shortdesc>
     <taskbody>
         <prereq>
+            <p>Prep time: 20 minutes. Cook time: 5 minutes. Makes: 6 burritos.</p>
             <p>Ingredients</p>
             <ul>
                 <li>6 whole wheat tortillas</li>

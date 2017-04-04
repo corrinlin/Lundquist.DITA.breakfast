@@ -2,9 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_rrm_zcj_kz">
     <title>French Toast</title>
-    <shortdesc><image href="images/french-toast.jpg"></image>Prep time: 10 minutes. Cook time: 5 minutes. Serves: 2-3</shortdesc>
+    <shortdesc><image href="images/french-toast.jpg"></image></shortdesc>
     <taskbody>
         <prereq>
+            <p>Prep time: 10 minutes Cook time: 5 minutes Serves: 2-3</p>
             <p>Ingredients</p>
             <ul>
                 <li>3 slices of day-old French bread, ciabatta bread, or other sturdy bread</li>
@@ -27,7 +28,7 @@
                 <cmd>In a small bowl, whisk together the milk, maple syrup, flour, egg, cinnamon, nutmeg, and salt.</cmd>
             </step>
             <step audience="armando">
-                <cmd>In a small bowl, whisk together the almond milk, maple syrup, flour, egg, nutritional yeast, cinnamon, nutmeg, and salt.</cmd>
+                <cmd>In a small bowl, whisk together the almond milk, maple syrup, flour, nutritional yeast, cinnamon, nutmeg, and salt.</cmd>
             </step>
             <step>
                 <cmd>Place the bread in one of the teal soup bowls. Pour the mixture over the bread, then flip the bread over to make sure both sides are evenly coated.</cmd>

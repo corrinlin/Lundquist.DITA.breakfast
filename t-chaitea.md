@@ -1,5 +1,6 @@
 # Energizing Chai
 ![picture of chai tea](images/chai-tea.jpg)
+
 Prep time: 5 minutes Cook time: 20 minutes Makes: 1 quart
 ##Ingredients
 * 3 cups filtered water

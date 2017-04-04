@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Cookbook for Armando</title>
+ <topicref href="c-welcome.dita"></topicref>
+ <topichead navtitle="Breakfast Food">
+  <topicref href="t-burrito.dita" navtitle="Breakfast Burrito"></topicref>
+  <topicref href="t-frenchtoast.dita" navtitle="French Toast"></topicref>
+  <topicref href="t-muesli.dita" navtitle="Overnight Muesli"></topicref>
+  <topicref href="t-muffins.dita" navtitle="Superhero Muffins"></topicref>
+  <topicref href="t-scones.dita" navtitle="Blueberry-Lemon Scones"></topicref>
+  <topicref href="t-oatmeal.dita" navtitle="Simple Oatmeal"></topicref>
+ </topichead>
+ <topichead navtitle="Breakfast Drinks">
+  <topicref href="t-coffee.md" format="markdown">
+   <topicmeta>
+    <shortdesc>This recipe makes a delicious cup of coffee</shortdesc>
+   </topicmeta>
+  </topicref>
+  <topicref href="t-smoothie.dita"></topicref>
+  <topicref href="t-mimosa.dita"></topicref>
+  <topicref href="t-chaitea.md" format="markdown">
+   <topicmeta>
+    <shortdesc>A recipe for hot or iced chai tea</shortdesc>
+   </topicmeta>
+  </topicref>
+ </topichead>
+ <topicref href="r-layout.dita"></topicref>
+</map>

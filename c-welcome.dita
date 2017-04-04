@@ -1,35 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
 <topic id="topic_el1_wb1_lz">
-  <title>Welcome!</title>
+  <title>Welcome</title>
   <body>
     <p>Welcome to our kitchen!</p>
-    <p>You'll find everything you need to cook the recipes in this book in our kitchen. I've divided
-      where to find things based on what they are</p>
-    <section>
-      <title>Dry ingredients</title>
-      <p>Dry ingredients such as rolled oats, flour, sugar, and baking soda, can all be found in the
-        top cupboard across from the sink, nearest to the basement door.</p>
-    </section>
-    <section>
-      <title>Fresh ingredients</title>
-      <p>Fresh ingredients such as meats, vegetables, as well as refrigerated items such as milk,
-        butter, and tofu, can all be found in the refrigerator. If an ingredient has either a "C",
-        "A", or no marking on it, it's free to use. If there is a "J" or a "T" marking on it, you
-        can't use it.</p>
-    </section>
-    <section>
-      <title>Seasonings</title>
-      <p>All seasonings such as cumin and cinnamon can be found on the shelf above the oven.</p>
-    </section>
-    <section>
-      <title>Appliances/Cookware</title>
-      <ul>
-        <li><p>The coffee machine is next to the microwave.</p></li>
-        <li><p>The toaster is on the counter that lines the far wall behind the stove.</p></li>
-        <li><p>All pots and pants are in the cabinets below and to the left of the sink.</p></li>
-        <li><p>More frequently used cooking utensils are in the vase next to the stove, but there are more in the drawer to the left of the stove.</p></li>
-      </ul>
-    </section>
+    <p>You'll find everything you need to cook the recipes in this book in our kitchen.</p>
   </body>
 </topic>

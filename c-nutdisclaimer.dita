@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="nutdisclaimer">
+ <title>Disclaimer</title>
+ <shortdesc>This is an allergy disclaimer.</shortdesc>
+ <conbody>
+  <p id="allergydisclaimer">If you have any nut allergies, don't use the nuts, substitute for something else. I'm not
+   responsible for any medical repercussions.</p>
+ </conbody>
+</concept>
