@@ -41,7 +41,7 @@
             <step>
                 <cmd>Divide between two bowls, then stir in any assortment of toppings.</cmd>
             </step>
-
         </steps>
+        <postreq><p conref="c-citation.dita#citation/runfasteatslow"></p></postreq>
     </taskbody>
 </task>

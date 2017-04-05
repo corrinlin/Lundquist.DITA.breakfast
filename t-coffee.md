@@ -23,3 +23,5 @@ In the cabinet above the coffee machine, you will find the coffee grounds, the s
 ###Making the coffee
 1. While the coffee is brewing, empty the desired number of sugar packets into an empty mug. 
 1. After the coffee is finished brewing, pour the coffee into that same mug, add milk, and enjoy!
+ 
+Recipe is my own.

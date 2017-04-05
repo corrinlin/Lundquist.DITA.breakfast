@@ -51,5 +51,6 @@
                 <cmd>Flour a clean work surface and roll the dough into a semi-flattened log, about 2 inches thick in diameter. Cut the log into 10 triangles and place 2 inches apart on the baking sheet. Bake until lightly browned on the bottoms, 15 to 20 minutes. Transfer to a rack to cool.</cmd>
             </step>
         </steps>
+       <postreq><p conref="c-citation.dita#citation/runfasteatslow"></p></postreq>
     </taskbody>
 </task>

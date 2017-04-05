@@ -25,5 +25,8 @@
       <title>Directions</title>
       <p>In a champagne flute, first add juices, then St. Germain and champagne.</p>
     </section>
+    <section>
+    <p conref="c-citation.dita#citation/cocktail"></p>
+    </section>
   </body>
 </topic>

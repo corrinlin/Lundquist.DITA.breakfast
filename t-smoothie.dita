@@ -5,7 +5,7 @@
     <shortdesc><image href="images/green-smoothie.jpg"></image></shortdesc>
     <taskbody>
         <prereq>
-            <p conref="c-nutdisclaimer.dita#nutdisclaimer/allergydisclaimer"></p>
+            <p conref="c-disclaimer.dita#disclaimer/allergydisclaimer"></p>
             <p>Prep time: 10 minutes. Cook time: 10 minutes. Serves: 2.</p>
             <p>Ingredients</p>
             <ul>
@@ -30,5 +30,6 @@
                 <cmd>Blend on high speed for several minutes until smooth.</cmd>
             </step>
         </steps>
+       <postreq><p conref="c-citation.dita#citation/runfasteatslow"></p></postreq>
     </taskbody>
 </task>

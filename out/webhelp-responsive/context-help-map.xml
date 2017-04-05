@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="topic_el1_wb1_lz" path="c-welcome.html"/>
+   <appContext helpID="task_xw3_p3j_kz" path="t-burrito.html"/>
+   <appContext helpID="task_rrm_zcj_kz" path="t-frenchtoast.html"/>
+   <appContext helpID="task_jjz_dbg_lz" path="t-muesli.html"/>
+   <appContext helpID="task_o2c_2y3_kz" path="t-muffins.html"/>
+   <appContext helpID="task_uzm_cng_lz" path="t-scones.html"/>
+   <appContext helpID="task_ifk_yfm_kz" path="t-oatmeal.html"/>
+   <appContext helpID="coffee" path="t-coffee.html"/>
+   <appContext helpID="task_f5b_pqy_kz" path="t-smoothie.html"/>
+   <appContext helpID="topic_imy_dsg_lz" path="t-mimosa.html"/>
+   <appContext helpID="energizing_chai" path="t-chaitea.html"/>
+   <appContext helpID="reference_m3r_1sf_lz" path="r-layout.html"/>
+   <appContext helpID="topic_cj4_k4t_lz" path="c-contact.html"/>
+</map>

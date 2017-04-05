@@ -27,5 +27,6 @@
                 <cmd>Top with banana slices, walnuts, and cinnamon.</cmd>
             </step>
         </steps>
+        <postreq><p conref="c-citation.dita#citation/oatmeal"></p></postreq>
     </taskbody>
 </task>

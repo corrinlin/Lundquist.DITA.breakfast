@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="citation">
+ <title>Recipe Citations</title>
+ <shortdesc>I didn't come up with the recipes myself, so I included citations for the original recipes below.</shortdesc>
+ <conbody>
+  <p id="runfasteatslow">Adapted from <cite>Run Fast. Eat Slow.: Nourishing Recipes for Athletes</cite> by Shalane Flanagan and Elyse Kopecky</p>
+  <p id="frenchtoast">Adapted from <xref href="https://www.loveandlemons.com/vegan-french-toast/" format="html" scope="external"></xref></p>
+  <p id="cocktail">Recipe from <xref href="http://www.countryliving.com/food-drinks/g3073/mimosa-recipe/?slide=16" format="html" scope="external"></xref></p>
+  <p id="burrito">Adapted from <xref href="http://www.ambitiouskitchen.com/2014/04/healthy-sweet-potato-black-bean-avocado-breakfast-burritos/" format="html" scope="external"></xref></p>
+  <p id="oatmeal">Adapted from <xref href="http://www.health.com/health/recipe/0,,50400000108125,00.html" format="html" scope="external"></xref></p>
+  
+ </conbody>
+</concept>

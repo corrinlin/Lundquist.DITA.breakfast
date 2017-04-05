@@ -18,7 +18,7 @@
                 <li>1/2 cup chopped walnuts</li>
                 <li>1/2 cup raisins</li>
                 <li audience="mom">3 eggs, beaten</li>
-                <li audience="armando">3 tablespoons ground flax seed and 9 tablespoons water</li>
+                <li audience="armando">3 tablespoons ground flax seed mixed with 9 tablespoons water</li>
                 <li>1 cup grated zucchini</li>
                 <li>1 cup grated carrots</li>
                 <li audience="mom">6 tablespoons unsalted butter, melted</li>
@@ -41,11 +41,12 @@
                 <cmd>In a separate bowl, mix together the eggs, zucchini, carrots, butter, maple syrup, and vanilla. Add the dry ingredients, mixing until just combined. The batter will be thick.</cmd>
             </step>
             <step audience="Armando">
-                <cmd>In a separate bowl, mix together the flax seed and water, zucchini, carrots, margarine, maple syrup, and vanilla. Add the dry ingredients, mixing until just combined. The batter will be thick.</cmd>
+                <cmd>In a separate bowl, mix together the flax seed and water mixture, zucchini, carrots, margarine, maple syrup, and vanilla. Add the dry ingredients, mixing until just combined. The batter will be thick.</cmd>
             </step>
             <step>
                 <cmd>Spoon the batter into the muffin cups, filling each to the brim. Bake until the muffins are nicely browned on the top, about 25-35 minutes.</cmd>
             </step>
         </steps>
+      <postreq><p conref="c-citation.dita#citation/runfasteatslow"></p></postreq>
     </taskbody>
 </task>

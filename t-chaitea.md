@@ -18,4 +18,6 @@ Prep time: 5 minutes Cook time: 20 minutes Makes: 1 quart
 1. Remove the tea, add the milk, sweeten to liking with coconut sugar, and heat until just warm. Pour through a strainer into 4 mugs.
 1. Store leftovers in a quart-size glass jar in the fridge.
 
-For iced chai, skip warking the milk. Sweeten, strain, and pour over ice.
+For iced chai, skip warming the milk. Sweeten, strain, and pour over ice.
+
+Recipe found in _Run Fast. Eat Slow.:Nourishing Recipes for Athletes._ by Shalane Flanagan and Elyse Kopecky

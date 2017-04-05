@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_m3r_1sf_lz">
-  <title>References</title>
+  <title>Reference Tables</title>
   <shortdesc>I've included some handy reference tables, both specific to this kitchen and for general use.</shortdesc>
   <refbody>
     <table>
-      <title>Table of Ingredients</title>
-      <desc/>
+      <title>Kitchen Item Locator</title>
+      <desc>I've organized the table by ingredient/item category.</desc>
       <tgroup cols="2">
         <tbody>
           <row>
@@ -41,6 +41,7 @@
     </table>
     <table>
       <title>Kitchen Conversions</title>
+      <desc>The conversion table below can help you when measuring volume for dry ingredients.</desc>
       <tgroup cols="3">
         <tbody>
           <row>

@@ -55,5 +55,6 @@
                 <cmd>To assemble the breakfast burrito, smear some sweet potato over the area of a tortilla. Add the innerds, then roll up.</cmd>
             </step>
         </steps>
+        <postreq><p conref="c-citation.dita#citation/burrito"></p></postreq>
     </taskbody>
 </task>

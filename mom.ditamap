@@ -2,7 +2,11 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Cookbook for Armando's Mom</title>
- <topicref href="c-welcome.dita"></topicref>
+ <topicref href="c-welcome.dita">
+  <topicmeta>
+   <shortdesc>Welcome to our home!</shortdesc>
+  </topicmeta>
+ </topicref>
  <topichead navtitle="Breakfast Food">
   <topicmeta>
    <shortdesc>Recipes for breakfast foods including oatmeal, french toast, and muffins.</shortdesc>
@@ -12,11 +16,11 @@
   <topicref href="t-muesli.dita" navtitle="Overnight Muesli"></topicref>
   <topicref href="t-muffins.dita" navtitle="Superhero Muffins"></topicref>
   <topicref href="t-scones.dita" navtitle="Blueberry-Lemon Scones"></topicref>
-  <topicref href="t-oatmeal.dita" navtitle="Simple Oatmeal"></topicref>
+  <topicref href="t-oatmeal.dita" navtitle="Banana Nut Oatmeal"></topicref>
  </topichead>
  <topichead navtitle="Breakfast Drinks">
   <topicmeta>
-   <shortdesc>Recipes for breakfast drinks including smoothies, tea, and coffee.</shortdesc>
+   <shortdesc>Recipes for breakfast drinks including a mimosa, smoothie, and coffee.</shortdesc>
   </topicmeta>
   <topicref href="t-coffee.md" format="markdown">
    <topicmeta>
@@ -31,6 +35,14 @@
    </topicmeta>
   </topicref>
  </topichead>
-<topicref href="r-layout.dita"></topicref>
-<topicref href="c-contact.dita"></topicref>
+ <topicref href="r-layout.dita">
+  <topicmeta>
+   <shortdesc>Reference table for things around the kitchen and a conversion table.</shortdesc>
+  </topicmeta>
+ </topicref>
+ <topicref href="c-contact.dita">
+  <topicmeta>
+   <shortdesc>If you have any questions, don't hesitate to contact me.</shortdesc>
+  </topicmeta>
+ </topicref>
 </map>

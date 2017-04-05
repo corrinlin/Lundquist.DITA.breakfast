@@ -5,7 +5,7 @@
     <shortdesc><image href="images/french-toast.jpg"></image></shortdesc>
     <taskbody>
         <prereq>
-            <p>Prep time: 10 minutes Cook time: 5 minutes Serves: 2-3</p>
+            <p>Prep time: 10 minutes. Cook time: 5 minutes. Serves: 2-3</p>
             <p>Ingredients</p>
             <ul>
                 <li>3 slices of day-old French bread, ciabatta bread, or other sturdy bread</li>
@@ -40,8 +40,9 @@
                 <cmd>Serve with powdered sugar, a pat of butter, maple syrup, and fresh fruit.</cmd>
             </step>
             <step audience="armando">
-                <cmd>Serve with powedered sugar, a pat of margarine maple syrup, and fresh fruit.</cmd>
+                <cmd>Serve with powedered sugar, a pat of margarine, maple syrup, and fresh fruit.</cmd>
             </step>
         </steps>
+      <postreq><p conref="c-citation.dita#citation/frenchtoast"></p></postreq>
     </taskbody>
 </task>
